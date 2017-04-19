@@ -19,5 +19,8 @@ public class User {
 		this.name = name;
 	}
 	
+	private String sex;
+	
+	
 
 }
