@@ -1,0 +1,13 @@
+package com.test4git.demo;
+
+public class Student {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
